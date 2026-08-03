@@ -133,6 +133,13 @@ header {
     color: white;
 }
 
+/* Dark Mode option */
+
+.dark-mode {
+    background-color: #121212;
+    color: white;
+}
+
 /* Sections */
 
 .section {
