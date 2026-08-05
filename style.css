@@ -133,13 +133,6 @@ header {
     color: white;
 }
 
-/* Dark Mode option */
-
-.dark-mode {
-    background-color: #121212;
-    color: white;
-}
-
 /* Sections */
 
 .section {
@@ -229,6 +222,35 @@ header {
 
     text-decoration: none;
     color: #2563eb;
+}
+
+/* Dark Mode */
+
+body.dark-mode {
+    background-color: #121212;
+    color: white;
+}
+
+body.dark-mode header {
+    background: #1e1e1e;
+}
+
+body.dark-mode .project-card {
+    background: #242424;
+    color: white;
+}
+
+body.dark-mode .about-card {
+    background: #242424;
+    color: white;
+}
+
+body.dark-mode footer {
+    background: #1e1e1e;
+}
+
+body.dark-mode a {
+    color: #6ea8ff;
 }
 
 /* Footer */
