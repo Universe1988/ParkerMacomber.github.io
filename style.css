@@ -135,7 +135,7 @@ header {
 
 .theme-btn {
     background: none;
-    border: 2px solid #2563eb;
+    border: none;
     border-radius: 8px;
     padding: 8px 14px;
     font-size: 18px;
