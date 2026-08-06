@@ -59,11 +59,18 @@ header {
 
 .hero {
 
-    min-height: 90vh;
+    min-height: 100vh;
 
     display: flex;
     align-items: center;
     justify-content: center;
+    align-items: center;
+    text-align: center;
+
+    background-image: url("images/Mountains.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
 
     text-align: center;
 
